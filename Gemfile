@@ -1,5 +1,7 @@
 source "https://rubygems.org/"
 
+ruby '2.1.8'
+
 # App Stack
 gem "sinatra", "~> 1.4"
 
