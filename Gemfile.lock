@@ -8,6 +8,7 @@ GEM
     rack-test (0.6.3)
       rack (>= 1.0)
     rake (10.5.0)
+    sequel (4.32.0)
     sinatra (1.4.7)
       rack (~> 1.5)
       rack-protection (~> 1.4)
@@ -21,7 +22,8 @@ DEPENDENCIES
   minitest (~> 5.2)
   rack-test (~> 0.6)
   rake (~> 10.0)
+  sequel
   sinatra (~> 1.4)
 
 BUNDLED WITH
-   1.10.6
+   1.11.2

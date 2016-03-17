@@ -5,6 +5,8 @@ ruby '2.1.8'
 # App Stack
 gem "sinatra", "~> 1.4"
 
+# Database Stack
+gem "sequel"
 
 group :development do
   gem "rake", "~> 10.0"
